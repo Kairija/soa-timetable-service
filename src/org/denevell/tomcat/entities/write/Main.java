@@ -1,4 +1,4 @@
-﻿package timetable.controller;
+﻿package org.denevell.tomcat.entities.write;
 
 
 public class Main {
